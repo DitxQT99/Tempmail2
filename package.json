@@ -1,0 +1,11 @@
+{
+  "name": "tempnail",
+  "version": "3.0.0",
+  "description": "Temporary email service using 1secmail API",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "author": "Ventz",
+  "license": "MIT"
+}
